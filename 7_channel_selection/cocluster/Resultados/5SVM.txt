@@ -1,0 +1,63 @@
+>> mainExp02
+
+biClustResult_spctral17Seg05
+
+--- TREINANDO MODELOS ---
+
+
+
+Clust 1 - 9 cols
+Channels - 2, 3, 4, 19, 37, 38, 43, 55, 60, 
+Pessoas - 3, 4, 19, 22, 25, 27, 28, 33, 35, 41, 44, 45, 52, 54, 55, 57, 58, 63, 64, 67, 72, 73, 84, 85, 92, 93, 95, 102, 
+Treinando Folds 1 2 3 4 5 6 7 8 9 10 
+
+Clust 6 - 4 cols
+Channels - 26, 32, 58, 64, 
+Pessoas - 36, 56, 62, 
+Treinando Folds 1 2 3 4 5 6 7 8 9 10 
+
+Clust 7 - 7 cols
+Channels - 7, 10, 28, 34, 45, 48, 49, 
+Pessoas - 5, 7, 8, 10, 16, 17, 20, 21, 23, 26, 31, 32, 34, 40, 42, 47, 70, 75, 77, 79, 82, 83, 86, 89, 96, 97, 98, 101, 
+Treinando Folds 1 2 3 4 5 6 7 8 9 10 
+
+Clust 13 - 7 cols
+Channels - 16, 21, 22, 25, 31, 33, 56, 
+Pessoas - 12, 14, 43, 46, 59, 60, 66, 68, 71, 78, 100, 
+Treinando Folds 1 2 3 4 5 6 7 8 9 10 
+
+Clust 15 - 9 cols
+Channels - 1, 8, 11, 13, 23, 30, 42, 44, 52, 
+Pessoas - 1, 2, 6, 9, 11, 13, 15, 18, 24, 29, 30, 37, 38, 39, 48, 49, 50, 51, 53, 61, 65, 69, 74, 76, 80, 81, 87, 88, 90, 91, 94, 99, 
+Treinando Folds 1 2 3 4 5 6 7 8 9 10 
+
+
+--- TESTE 1 DOS MODELOS ---
+
+Fold 1: 0.978758  -  Fold 2: 0.979575  -  Fold 3: 0.986111  -  Fold 4: 0.975490  -  Fold 5: 0.975490  -  Fold 6: 0.977941  -  Fold 7: 0.978758  -  Fold 8: 0.977124  -  Fold 9: 0.982843  -  Fold 10: 0.979575  -  
+M�dia: 0.979167�0.003251 
+Acur�cia dados Imaginados: 0.948938  
+
+
+--- TESTE 2 DOS MODELOS ---
+
+
+-> Treinando ELM de Chaveamento 
+
+ELM do Fold 1 - Acc de chaveamento 0.993464
+ELM do Fold 2 - Acc de chaveamento 0.993464
+ELM do Fold 3 - Acc de chaveamento 0.992647
+ELM do Fold 4 - Acc de chaveamento 0.988562
+ELM do Fold 5 - Acc de chaveamento 0.992647
+ELM do Fold 6 - Acc de chaveamento 0.990196
+ELM do Fold 7 - Acc de chaveamento 0.989379
+ELM do Fold 8 - Acc de chaveamento 0.984477
+ELM do Fold 9 - Acc de chaveamento 0.992647
+ELM do Fold 10 - Acc de chaveamento 0.986928
+ELM com dados Imaginados 10 - Acc de chaveamento 0.974020
+
+-> Teste dos modelos com chaveamento da ELM 
+
+Fold 1: 0.974673  -  Fold 2: 0.976307  -  Fold 3: 0.980392  -  Fold 4: 0.968137  -  Fold 5: 0.971405  -  Fold 6: 0.973039  -  Fold 7: 0.972222  -  Fold 8: 0.966503  -  Fold 9: 0.978758  -  Fold 10: 0.969771  -  
+M�dia: 0.973121�0.004482 
+Acur�cia dados Imaginados: 0.930882  >> 

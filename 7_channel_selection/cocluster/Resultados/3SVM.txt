@@ -1,0 +1,54 @@
+>> mainExp02
+
+biClustResult_spctral8Seg05
+
+--- TREINANDO MODELOS ---
+
+
+
+Clust 2 - 10 cols
+Channels - 6, 9, 12, 14, 15, 23, 27, 34, 44, 61, 
+Pessoas - 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 13, 16, 17, 18, 20, 21, 23, 30, 32, 41, 43, 45, 47, 48, 50, 53, 55, 57, 60, 80, 81, 83, 86, 87, 88, 89, 91, 94, 95, 98, 
+Treinando Folds 1 2 3 4 5 6 7 8 9 10 
+
+Clust 3 - 19 cols
+Channels - 1, 2, 7, 8, 10, 11, 26, 28, 29, 30, 32, 36, 42, 49, 52, 53, 54, 55, 56, 
+Pessoas - 8, 15, 19, 22, 25, 28, 31, 35, 36, 38, 40, 42, 44, 46, 54, 56, 61, 63, 64, 65, 68, 70, 71, 72, 73, 74, 75, 76, 79, 90, 92, 93, 96, 97, 99, 101, 
+Treinando Folds 1 2 3 4 5 6 7 8 9 10 
+
+Clust 7 - 9 cols
+Channels - 3, 16, 19, 21, 43, 46, 47, 58, 59, 
+Pessoas - 12, 14, 24, 26, 27, 29, 33, 34, 37, 39, 49, 51, 52, 58, 59, 62, 66, 67, 69, 77, 78, 82, 84, 85, 100, 102, 
+Treinando Folds 1 2 3 4 5 6 7 8 9 10 
+
+
+--- TESTE 1 DOS MODELOS ---
+
+Fold 1: 0.985294  -  Fold 2: 0.991013  -  Fold 3: 0.991830  -  Fold 4: 0.991830  -  Fold 5: 0.986111  -  Fold 6: 0.986928  -  Fold 7: 0.991830  -  Fold 8: 0.981209  -  Fold 9: 0.988562  -  Fold 10: 0.984477  -  
+M�dia: 0.987908�0.003710 
+Acur�cia dados Imaginados: 0.952614  
+
+
+--- TESTE 2 DOS MODELOS ---
+
+
+-> Treinando ELM de Chaveamento 
+
+ELM do Fold 1 - Acc de chaveamento 0.986111
+ELM do Fold 2 - Acc de chaveamento 0.990196
+ELM do Fold 3 - Acc de chaveamento 0.991830
+ELM do Fold 4 - Acc de chaveamento 0.988562
+ELM do Fold 5 - Acc de chaveamento 0.982843
+ELM do Fold 6 - Acc de chaveamento 0.986928
+ELM do Fold 7 - Acc de chaveamento 0.986111
+ELM do Fold 8 - Acc de chaveamento 0.985294
+ELM do Fold 9 - Acc de chaveamento 0.995098
+ELM do Fold 10 - Acc de chaveamento 0.989379
+ELM com dados Imaginados 10 - Acc de chaveamento 0.967810
+
+-> Teste dos modelos com chaveamento da ELM 
+
+Fold 1: 0.972222  -  Fold 2: 0.982843  -  Fold 3: 0.984477  -  Fold 4: 0.982026  -  Fold 5: 0.970588  -  Fold 6: 0.975490  -  Fold 7: 0.979575  -  Fold 8: 0.973856  -  Fold 9: 0.985294  -  Fold 10: 0.977941  -  
+M�dia: 0.978431�0.005241 
+Acur�cia dados Imaginados: 0.928023  >> 
+

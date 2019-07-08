@@ -1,0 +1,84 @@
+>> mainExp02
+
+biClustResult_spctral26Seg05
+
+--- TREINANDO MODELOS ---
+
+
+
+Clust 1 - 3 cols
+Channels - 28, 48, 49, 
+Pessoas - 6, 8, 31, 34, 42, 75, 83, 98, 
+Treinando Folds 1 2 3 4 5 6 7 8 9 10 
+
+Clust 3 - 6 cols
+Channels - 14, 18, 34, 44, 45, 62, 
+Pessoas - 1, 17, 20, 37, 60, 72, 86, 89, 
+Treinando Folds 1 2 3 4 5 6 7 8 9 10 
+
+Clust 9 - 3 cols
+Channels - 26, 32, 58, 
+Pessoas - 13, 19, 23, 27, 29, 35, 39, 54, 55, 56, 62, 73, 77, 
+Treinando Folds 1 2 3 4 5 6 7 8 9 10 
+
+Clust 12 - 7 cols
+Channels - 2, 3, 10, 13, 30, 37, 55, 
+Pessoas - 3, 4, 7, 9, 11, 15, 21, 22, 24, 25, 30, 32, 36, 38, 40, 41, 45, 46, 47, 48, 49, 50, 52, 53, 57, 58, 59, 61, 64, 65, 67, 69, 70, 71, 76, 78, 79, 80, 81, 82, 84, 87, 88, 90, 91, 92, 93, 96, 97, 99, 
+Treinando Folds 1 2 3 4 5 6 7 8 9 10 
+
+Clust 18 - 5 cols
+Channels - 8, 11, 23, 42, 52, 
+Pessoas - 2, 10, 18, 28, 
+Treinando Folds 1 2 3 4 5 6 7 8 9 10 
+
+Clust 19 - 2 cols
+Channels - 21, 29, 
+Pessoas - 14, 26, 
+Treinando Folds 1 2 3 4 5 6 7 8 9 10 
+
+Clust 22 - 3 cols
+Channels - 19, 38, 60, 
+Pessoas - 33, 63, 95, 101, 102, 
+Treinando Folds 1 2 3 4 5 6 7 8 9 10 
+
+Clust 25 - 4 cols
+Channels - 1, 7, 16, 56, 
+Pessoas - 43, 68, 94, 100, 
+Treinando Folds 1 2 3 4 5 6 7 8 9 10 
+
+Clust 26 - 3 cols
+Channels - 22, 39, 63, 
+Pessoas - 5, 12, 16, 44, 51, 66, 74, 85, 
+Treinando Folds 1 2 3 4 5 6 7 8 9 10 
+
+
+--- TESTE 1 DOS MODELOS ---
+
+Fold 1: 0.968954  -  Fold 2: 0.959150  -  Fold 3: 0.973039  -  Fold 4: 0.955065  -  Fold 5: 0.954248  -  Fold 6: 0.963235  -  Fold 7: 0.973856  -  Fold 8: 0.950980  -  Fold 9: 0.963235  -  Fold 10: 0.964052  -  
+M�dia: 0.962582�0.007834 
+Acur�cia dados Imaginados: 0.917239  
+
+
+--- TESTE 2 DOS MODELOS ---
+
+
+-> Treinando ELM de Chaveamento 
+
+ELM do Fold 1 - Acc de chaveamento 0.995098
+ELM do Fold 2 - Acc de chaveamento 0.995915
+ELM do Fold 3 - Acc de chaveamento 0.991830
+ELM do Fold 4 - Acc de chaveamento 0.991830
+ELM do Fold 5 - Acc de chaveamento 0.989379
+ELM do Fold 6 - Acc de chaveamento 0.991013
+ELM do Fold 7 - Acc de chaveamento 0.989379
+ELM do Fold 8 - Acc de chaveamento 0.986928
+ELM do Fold 9 - Acc de chaveamento 0.990196
+ELM do Fold 10 - Acc de chaveamento 0.991013
+ELM com dados Imaginados 10 - Acc de chaveamento 0.984804
+
+-> Teste dos modelos com chaveamento da ELM 
+
+Fold 1: 0.965686  -  Fold 2: 0.955882  -  Fold 3: 0.966503  -  Fold 4: 0.948529  -  Fold 5: 0.947712  -  Fold 6: 0.955882  -  Fold 7: 0.965686  -  Fold 8: 0.941993  -  Fold 9: 0.955882  -  Fold 10: 0.958333  -  
+M�dia: 0.956209�0.008325 
+Acur�cia dados Imaginados: 0.906127  >> 
+
